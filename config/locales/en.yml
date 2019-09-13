@@ -2,8 +2,8 @@
 
 en:
   spree:
-    footer_right: "Company  <br/>Phone  <br/> www "
-    footer_right2: " My great company <br/>040 146 1222 <br/>  www.gohereoften.com"
+    footer_right: ""
+    footer_right2: ""
 
     size: "Size"
     price: "Price"
