@@ -28,7 +28,7 @@ en:
     receipt:
       header: Receipt
       print: Receipt
-    invoice:
+    delivery_order:
       header: Delivery Order
       thanks: Thank you for your order.
       print: Print Delivery Order
